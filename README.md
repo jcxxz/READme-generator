@@ -34,3 +34,8 @@ THEN I am taken to the corresponding section of the README
 ```
 ### Walkthrough-video
 https://drive.google.com/file/d/12eXvGVm7JYZna12X7aX_Fd3f-ZRcRoKq/view
+
+![readme generator ](https://user-images.githubusercontent.com/117127694/216750715-6f61e9de-c61e-461f-972b-42d86ad1b96f.jpg)
+
+
+
